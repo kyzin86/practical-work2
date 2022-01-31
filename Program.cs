@@ -12,6 +12,7 @@ namespace practical_work2
         {
             Console.WriteLine("Hello. I am Kuznecov A.E.");
             //здесь должна быть ваша строчка...
+            //не забудьте запушить изменения...
         }
     }
 }
