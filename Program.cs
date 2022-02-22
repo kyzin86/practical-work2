@@ -11,7 +11,7 @@ namespace practical_work2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello. I am Kuznecov A.E.");
-            Console.WriteLine("Hello. I am Kuznecov86");
+           
             //здесь должна быть ваша строчка...
             //не забудьте запушить изменения...//
         }
