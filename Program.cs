@@ -12,7 +12,7 @@ namespace practical_work2
         {
             Console.WriteLine("Hello. I am Kuznecov A.E.");
             Console.WriteLine("Hello. I am Selivanov V.O.");
-           
+            Сonsole.WriteLine("Hello. I am Malov I.S.");
             //здесь должна быть ваша строчка...
             //не забудьте запушить изменения...//
         }
